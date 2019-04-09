@@ -22,7 +22,7 @@ yarn test
 ```
 e2e tests requires localhost:3000 running.
 
-##Notes: 
+## Notes: 
 
 I used create react app because it provides good foundation for testing and transpiling trough webpack etc.. I used flex box for laying out elements.. It is modern way of doing that. Carousel I developed not only for this images it can be used for other contents. In app, 3 sample use cases shown. I focused to show technologies I am using rather than perfect carousel. I could provide also other conventions and best practices for this task for example redux and redux saga for async actions but it is not fitting in this assingment. It has very easy usage by just importing carousel and card component to another module and give data and additional props.
 

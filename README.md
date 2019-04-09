@@ -12,6 +12,11 @@
 - Eslint for code standardization.
 
 ## Instructions:
-### - `yarn`
-### - `yarn start`
-### - `yarn test` in another terminal(e2e test requires localhost:3000 running)
+
+```sh
+git clone https://github.com/beratuslu/responsive-image-carousel.git
+cd responsive-image-carousel
+yarn
+yarn start
+yarn test in another terminal(e2e test requires localhost:3000 running)
+```

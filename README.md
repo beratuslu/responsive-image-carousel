@@ -18,5 +18,6 @@ git clone https://github.com/beratuslu/responsive-image-carousel.git
 cd responsive-image-carousel
 yarn
 yarn start
+yarn test
 ```
-`yarn test` in another terminal(e2e test requires localhost:3000 running)
+Note: e2e tests requires localhost:3000 running.

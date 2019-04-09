@@ -12,6 +12,6 @@
 - Eslint for code standardization.
 
 ## Instructions:
-### 1 `yarn`
-### 2 `yarn start`
-### 3 `yarn test` in another terminal(e2e test requires localhost:3000 running)
+### - `yarn`
+### - `yarn start`
+### - `yarn test` in another terminal(e2e test requires localhost:3000 running)
